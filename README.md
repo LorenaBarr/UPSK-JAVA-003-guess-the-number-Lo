@@ -20,6 +20,8 @@ Este proyecto implementa un juego de adivinanza de números en Java. El juego co
 
 ![Imagen del juego](Juego1.png)
 ![Imagen del juego](juego2.png)
+
+
 ## Requisitos
 - Java JDK 8 o superior.
 
